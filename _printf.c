@@ -51,7 +51,7 @@ int _printf(const char *format, ...)
 
 	return (printed_chars);
 }
-
+//2nd function
 /**
  * print_buffer - Prints the contents of the buffer if it exist
  * @buffer: Array of chars
